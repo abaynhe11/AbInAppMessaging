@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "337131661855",
+    "firebase_url": "https://fir-authrealdata-default-rtdb.firebaseio.com",
+    "project_id": "fir-authrealdata",
+    "storage_bucket": "fir-authrealdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337131661855:android:e4a043432ea5ac3d8e432a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth.abinappmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337131661855-8l1v13pkhet9lo2mgcom63aa4ifmufp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYit6_o1x8A7xx9C5E3mrMgbnTWekbcXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337131661855-8l1v13pkhet9lo2mgcom63aa4ifmufp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337131661855:android:db4e3911820cfad48e432a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth.ablocfolder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337131661855-8l1v13pkhet9lo2mgcom63aa4ifmufp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYit6_o1x8A7xx9C5E3mrMgbnTWekbcXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337131661855-8l1v13pkhet9lo2mgcom63aa4ifmufp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337131661855:android:37e9293efdcdcdeb8e432a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth.firebaseauthrealdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337131661855-8l1v13pkhet9lo2mgcom63aa4ifmufp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYit6_o1x8A7xx9C5E3mrMgbnTWekbcXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337131661855-8l1v13pkhet9lo2mgcom63aa4ifmufp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
